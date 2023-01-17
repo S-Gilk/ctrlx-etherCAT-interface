@@ -6,10 +6,10 @@ This .NET sample subscribes to etherCAT data from the ctrlX datalayer. Also, all
 
 Development environment for a .NET etherCAT interface application for the ctrlX CORE. 
 
-Supports:
-    1. Datalayer client
-    2. Modification of ethercat master xml over WebDav
-    3. Containerized with docker
+* Supports:
+* 1. Datalayer client
+* 2. Modification of ethercat master xml over WebDav
+* 3. Containerized with docker
 
 ## License
 
